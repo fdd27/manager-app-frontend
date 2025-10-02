@@ -1,9 +1,6 @@
 import { Link } from "react-router-dom";
-<<<<<<< HEAD
 import User from './User';
-=======
 import { useState } from "react";
->>>>>>> a9714c0 (styled side bar a little bit)
 
 const SideNav = () => {
     const [active, setActive] = useState<string>("");
